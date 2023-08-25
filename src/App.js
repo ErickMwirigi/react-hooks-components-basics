@@ -6,7 +6,6 @@ import About from "./About";
 function App() {
   return (
     <div>
-      
       <Article />
       <Comment />
       <About />
